@@ -1,114 +1,101 @@
-# Hi 👋, I'm Ratnesh Gupta
+<div align="center">
 
-::: {align="center"}
-### 💻 Frontend Developer • 🤖 AI Enthusiast
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:D4AF37&height=220&section=header&text=Ratnesh%20Gupta&fontSize=55&fontColor=FFFFFF&animation=fadeIn&desc=Frontend%20Developer%20%7C%20AI%20Enthusiast&descAlignY=65&descSize=20&fontAlignY=35" width="100%"/>
 
-`<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=D4AF37&center=true&vCenter=true&width=700&lines=Frontend+Developer;AI+Enthusiast;IT+Undergraduate;React+%7C+Next.js+%7C+Node.js;Always+Learning+Something+New!" />`{=html}
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=D4AF37&center=true&vCenter=true&width=650&lines=Turning+logic+into+reality%2C+one+commit+at+a+time.;Building+clean%2C+impactful+web+experiences.;Always+learning%2C+always+building." alt="Typing SVG" />
+</a>
 
-```{=html}
-<p>
-```
-`<b>`{=html}Turning logic into reality by building impactful web
-experiences.`</b>`{=html}
-```{=html}
-</p>
-```
-`<img src="https://komarev.com/ghpvc/?username=guptaji3112006-boop&label=Profile%20Views&color=DAA520&style=for-the-badge"/>`{=html}
-:::
+</div>
 
-------------------------------------------------------------------------
+<br/>
 
-# 👨‍💻 About Me
+## 🧑‍💻 About Me
 
--   🎓 B.Tech IT Student at **Bhagwan Parshuram Institute of
-    Technology**
--   📍 Delhi, India
--   🌱 Learning **Web Development & DSA**
--   🚀 Passionate about Frontend Development & AI
--   📧 guptaji3112006@gmail.com
--   🌐 Portfolio: **Coming Soon**
+I'm **Ratnesh Gupta**, an IT undergrad with a passion for development. I love turning logic into reality and I'm focused on building projects that are not just functional, but **impactful**. Let's connect and talk all things tech!
 
-------------------------------------------------------------------------
+- 🎓 Currently studying at **Bhagwan Parshuram Institute of Technology**
+- 📚 Status: **Student**
+- 🌱 Currently learning: **Web Development** & **DSA**
+- 📍 Based in **Delhi, India**
+- 🌐 Portfolio: **Coming soon**
+- 💬 Ask me about: **HTML, CSS, JavaScript, React, Node.js**
 
-# 🛠️ Tech Stack
+<div align="center">
 
-```{=html}
-<p align="center">
-```
-`<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs,nodejs,express,mongodb,git,github,cpp,c,vscode"/>`{=html}
-```{=html}
-</p>
-```
+[![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=D4AF37)](mailto:guptaji3112006@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=D4AF37)](https://github.com/guptaji3112006-boop)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-000000?style=for-the-badge&logo=vercel&logoColor=D4AF37)](#)
+[![Location](https://img.shields.io/badge/Delhi,%20India-000000?style=for-the-badge&logo=googlemaps&logoColor=D4AF37)](#)
 
-------------------------------------------------------------------------
+</div>
 
-# 📊 GitHub Stats
+<br/>
 
-```{=html}
-<p align="center">
-```
-`<img height="170" src="https://github-readme-stats.vercel.app/api?username=guptaji3112006-boop&show_icons=true&theme=github_dark&hide_border=true"/>`{=html}
-`<img height="170" src="https://streak-stats.demolab.com?user=guptaji3112006-boop&theme=github-dark&hide_border=true"/>`{=html}
-```{=html}
-</p>
-```
-```{=html}
-<p align="center">
-```
-`<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guptaji3112006-boop&layout=compact&theme=github_dark&hide_border=true"/>`{=html}
-```{=html}
-</p>
-```
+## 🛠️ Tech Stack
 
-------------------------------------------------------------------------
+<div align="center">
 
-# 🏆 GitHub Trophies
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs,nodejs,express,mongodb,git,github,c,cpp&theme=dark" />
 
-```{=html}
-<p align="center">
-```
-`<img src="https://github-profile-trophy.vercel.app/?username=guptaji3112006-boop&theme=onedark&no-frame=true&margin-w=15"/>`{=html}
-```{=html}
-</p>
-```
+</div>
 
-------------------------------------------------------------------------
+<br/>
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-### 🛒 Amazon Clone
+<div align="center">
 
-https://ecommerce-ui-demo-inky.vercel.app/
+| Project | Live Demo | Tech Stack |
+|:---|:---:|:---:|
+| 🛒 **E-Commerce UI (Amazon Clone)** | [Visit ↗](https://ecommerce-ui-demo-inky.vercel.app/) | `HTML` `CSS` |
+| 🎬 **UI Demo (Netflix Clone)** | [Visit ↗](https://uidemo-inky.vercel.app/) | `HTML` `CSS` |
+| ❌⭕ **Tic Tac Toe** | [Play ↗](https://tic-tac-toe-game34.vercel.app/) | `JavaScript` |
+| ✊✋✌️ **Rock Paper Scissors** | [Play ↗](https://rock-paper-scissor-game-mu-steel.vercel.app/) | `JavaScript` |
+| 🔐 **Vaulix — Password Manager** | [Visit ↗](https://vaulix-pi.vercel.app/) | `JavaScript` `React` |
 
-### 🎬 Netflix Clone
+*and many more on the way...* 🚧
 
-https://uidemo-inky.vercel.app/
+</div>
 
-### 🔐 Vaulix Password Manager
+> *(Swap in the exact tech tags above if any project uses a different stack — I made reasonable guesses based on your listed skills.)*
 
-https://vaulix-pi.vercel.app/
+<br/>
 
-### 🎮 Tic Tac Toe
+## 📊 GitHub Stats & Graphs
 
-http://tic-tac-toe-game34.vercel.app/
+<div align="center">
 
-------------------------------------------------------------------------
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=guptaji3112006-boop&show_icons=true&theme=transparent&bg_color=00000000&title_color=D4AF37&icon_color=D4AF37&text_color=FFFFFF&border_color=D4AF37&hide_border=false&count_private=true"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=guptaji3112006-boop&background=00000000&border=D4AF37&stroke=D4AF37&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF"/>
 
-# 🌐 Connect With Me
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guptaji3112006-boop&layout=compact&theme=transparent&bg_color=00000000&title_color=D4AF37&text_color=FFFFFF&border_color=D4AF37&hide_border=false" width="48%"/>
 
-```{=html}
-<p align="center">
-```
-`<a href="https://github.com/guptaji3112006-boop">`{=html}`<img src="https://skillicons.dev/icons?i=github"/>`{=html}`</a>`{=html}
-`<a href="mailto:guptaji3112006@gmail.com">`{=html}`<img src="https://skillicons.dev/icons?i=gmail"/>`{=html}`</a>`{=html}
-```{=html}
-</p>
-```
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=guptaji3112006-boop&bg_color=00000000&color=D4AF37&line=D4AF37&point=FFFFFF&area=true&hide_border=true" width="100%"/>
 
-------------------------------------------------------------------------
+</div>
 
-> **"First, solve the problem. Then, write the code."**
+<br/>
 
-::: {align="center"}
-### ⭐ Thanks for visiting my profile ⭐
-:::
+
+> ⚙️ This animation is generated by a GitHub Action — see `snake.yml` (provided separately) for the one-time setup.
+
+<br/>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=guptaji3112006-boop&theme=matrix&no-frame=true&row=1&column=6&margin-w=8"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=guptaji3112006-boop&color=D4AF37&style=for-the-badge&label=PROFILE+VIEWS)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D4AF37,100:000000&height=120&section=footer" width="100%"/>
+
+</div>
