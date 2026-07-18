@@ -66,10 +66,10 @@ I'm **Ratnesh Gupta**, an IT undergrad with a passion for development. I love tu
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=guptaji3112006-boop&show_icons=true&theme=transparent&bg_color=00000000&title_color=D4AF37&icon_color=D4AF37&text_color=FFFFFF&border_color=D4AF37&hide_border=false&count_private=true"/>
+ 
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=guptaji3112006-boop&background=00000000&border=D4AF37&stroke=D4AF37&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guptaji3112006-boop&layout=compact&theme=transparent&bg_color=00000000&title_color=D4AF37&text_color=FFFFFF&border_color=D4AF37&hide_border=false" width="48%"/>
+ 
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=guptaji3112006-boop&bg_color=00000000&color=D4AF37&line=D4AF37&point=FFFFFF&area=true&hide_border=true" width="100%"/>
 
@@ -81,10 +81,18 @@ I'm **Ratnesh Gupta**, an IT undergrad with a passion for development. I love tu
 
 <br/>
 
+
+
+
+# 💡 Quote
+
 <div align="center">
+  
+> **"First, solve the problem. Then, write the code."** 💛
 
-![Profile Views](https://komarev.com/ghpvc/?username=guptaji3112006-boop&color=D4AF37&style=for-the-badge&label=PROFILE+VIEWS)
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D4AF37,100:000000&height=120&section=footer" width="100%"/>
+
+### ⭐ Thanks for visiting my profile ⭐
 
 </div>
