@@ -10,7 +10,6 @@
 Turning logic into reality by building impactful web experiences.
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=guptaji3112006-boop&label=Profile+Views&color=DAA520&style=for-the-badge"/>
 
 </div>
 
@@ -60,7 +59,8 @@ Turning logic into reality by building impactful web experiences.
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guptaji3112006-boop&layout=compact&theme=transparent&title_color=D4AF37&text_color=ffffff&border_color=D4AF37"/>
+[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guptaji3112006-boop&layout=compact&theme=transparent&title_color=D4AF37&text_color=ffffff&border_color=D4AF37"/>
+](https://github-readme-stats.vercel.app/api/top-langs/?username=guptaji3112006-boop&layout=compact&theme=github_dark)
 
 </p>
 
@@ -91,9 +91,11 @@ Secure Password Manager
 
 ---
 
-## 🎮 Tic Tac Toe & Mini Games
+## 🎮 Tic Tac Toe game
 
-More JavaScript Projects Coming Soon...
+🔗 http://tic-tac-toe-game34.vercel.app/
+
+More Projects Coming Soon...
 
 ---
 
@@ -113,31 +115,8 @@ More JavaScript Projects Coming Soon...
 
 ---
 
-# 🏆 GitHub Trophies
 
-<p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=guptaji3112006-boop&theme=onedark&column=4&margin-w=15&margin-h=15"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-[![Ratnesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=guptaji3112006-boop&theme=github-compact)](https://github.com/guptaji3112006-boop)
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/guptaji3112006-boop/guptaji3112006-boop/output/github-contribution-grid-snake.svg"/>
-
-</p>
-
----
 
 # 💡 Quote
 
